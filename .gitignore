@@ -1,0 +1,14 @@
+# Data files
+data/
+*.xlsx
+*.csv
+
+# Virtual Environment
+.venv/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
